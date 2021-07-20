@@ -1,2 +1,2 @@
-# rock-paper-scissors
- 
+# Rock Paper Scissors
+Rock Paper Scissors is a game of 2 players in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors".
